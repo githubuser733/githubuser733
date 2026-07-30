@@ -1,4 +1,7 @@
 ## 🐍 Contribution Snake
 
-![snake](https://raw.githubusercontent.com/githubuser733/githubuser733/output/snake.svg)
-![snake-dark](https://raw.githubusercontent.com/githubuser733/githubuser733/output/snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/githubuser733/githubuser733/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/githubuser733/githubuser733/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/githubuser733/githubuser733/output/github-contribution-grid-snake.svg">
+</picture>
